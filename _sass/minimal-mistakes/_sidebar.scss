@@ -120,11 +120,6 @@
   width: 36px;
   height: 36px;
 
-  @include breakpoint($large) {
-    display: block;
-    width: auto;
-    height: auto;
-  }
 
   img {
     border-radius: 50%;
