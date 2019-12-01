@@ -109,7 +109,9 @@ analytics:
 author:
   name             : "Nikko M. Espiritu"
   avatar           : "/assets/images/profile-photov2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "“Would it save you a lot of time if I just gave up and went mad now?”
+  bio              : "Hi and welcome to my blog. Let me tell you my journey as I take my Data Science/Machine Learning journey.
+
+  “Would it save you a lot of time if I just gave up and went mad now?”
 ― Douglas Adams, The Hitchhiker's Guide to the Galaxy"
   location         : "Philippines"
   email            :
