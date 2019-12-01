@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Nikko M. Espiritu"
-  avatar           : "/assets/images/profile-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile-photov2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Philippines"
   email            :
